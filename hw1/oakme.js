@@ -22,11 +22,11 @@ app.use((ctx) => {
   }else if(pathname == '/name'){
     ctx.response.body = '余宸安'
   }else if(pathname == '/age'){
-    ctx.respionse.body = '19'
+    ctx.response.body = '19'
   }else if(pathname == '/gender'){
     ctx.response.body = '男'
   }else{
-    
+
   }
   // ctx.response.body = 'Not Found!'
 });
