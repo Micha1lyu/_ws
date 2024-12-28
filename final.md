@@ -6,3 +6,9 @@
 ### 習題 2: 請為 blog 程式加上貼文時間
 
 [HW2](https://github.com/Micha1lyu/_ws/tree/master/hw2)
+
+### 習題 5 -- 請用 ChatGPT 協助你讀懂一個 Blog 的程式範例
+
+選擇的是:[05-sqlite/03-Blog](https://github.com/ccc113a/html2denojs/tree/master/02-%E5%BE%8C%E7%AB%AF/05-sqlite/03-blog)
+
+[與ChatGPT的對話](https://chatgpt.com/share/67700087-f128-8002-ac90-faab40e5835b)
